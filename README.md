@@ -1,5 +1,11 @@
 # Drill-Down Explainer Spec
 
+
+
+https://github.com/user-attachments/assets/ea111127-f1f8-4d7a-bded-2414bb8e03fc
+
+
+
 A stack-agnostic spec for an AI illustrated explainer: type a topic, click anywhere on the image to drill into that spot, repeat forever — with the painting style preserved across every page.
 
 Hand this spec to any capable coding LLM (or human). As long as every behavior in §12 passes, the technology choice is yours.
