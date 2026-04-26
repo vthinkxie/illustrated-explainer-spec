@@ -1,7 +1,5 @@
 # Drill-Down Explainer Spec
 
-Inspired by [flipbook.page](https://flipbook.page/).
-
 A stack-agnostic spec for an AI illustrated explainer: type a topic, click anywhere on the image to drill into that spot, repeat forever — with the painting style preserved across every page.
 
 Hand this spec to any capable coding LLM (or human). As long as every behavior in §12 passes, the technology choice is yours.
@@ -198,3 +196,7 @@ Output a single PNG image, 16:9.
 ## License
 
 Do whatever you want with this spec.
+
+---
+
+Inspired by [flipbook.page](https://flipbook.page/).
